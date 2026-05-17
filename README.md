@@ -2,15 +2,11 @@
 
 Automatically join **Google Play beta programs** the moment a slot opens — no more endless manual refreshing!
 
----
-
 ## 🧠 Overview
 
 **BetaSlot-Sniper** monitors selected apps on the Google Play Store and automatically joins their beta programs when spots become available.
 
 It uses your **real browser profile** (so you stay logged in) and handles driver downloads automatically.
-
----
 
 ## ⚙️ Quick Start
 
@@ -32,15 +28,11 @@ python BetaSlot-Sniper.py
 * Choose browser (**auto-detect** or **manual**)
 * Let it run — the script will handle everything automatically!
 
----
-
 ## ⚠️ Important Notes
 
 * You **must be logged into** your Google account in the selected browser for it to work
 * **Automatic WebDriver download** is included
 * If it fails, you’ll be prompted with **manual setup instructions**
-
----
 
 ## 🧩 Advanced Usage
 
@@ -58,8 +50,6 @@ python BetaSlot-Sniper.py --once
 python BetaSlot-Sniper.py --help
 ```
 
----
-
 ## 🌐 Supported Browsers
 
 | Browser       | Channels                   |
@@ -71,8 +61,6 @@ python BetaSlot-Sniper.py --help
 | **Opera**     | Stable, GX                 |
 | **LibreWolf** | Stable                     |
 
----
-
 ## 🔍 How It Works
 
 * Checks **Google Play beta pages every 30 seconds**
@@ -80,8 +68,6 @@ python BetaSlot-Sniper.py --help
 * Uses your **existing browser profile**
 * **Downloads WebDrivers automatically**
 * Fully compatible with **Windows, macOS, and Linux**
-
----
 
 ## 📱 Predefined Apps
 
@@ -97,15 +83,11 @@ python BetaSlot-Sniper.py --help
 * TikTok
 * *(+ Custom package support!)*
 
----
-
 ## 💡 Pro Tips
 
 * Use the `--once` flag to join **only one beta** and exit afterward
 * Keep it running to **monitor multiple apps continuously**
 * Pair it with a **headless browser** for silent background operation
-
----
 
 ## 🧾 Version History
 
