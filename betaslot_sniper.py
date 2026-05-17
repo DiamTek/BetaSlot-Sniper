@@ -1,4 +1,8 @@
 # BetaSlot Sniper.py
+
+# BetaSlot Sniper - Copyright (c) 2026 DiamTek
+# Licensed under the MIT License. See the LICENSE file for details.
+
 # Automated Google Play Beta Program Slot Hunter
 # Multi-browser, multi-platform support with package selection
 

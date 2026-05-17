@@ -93,7 +93,6 @@ python BetaSlot-Sniper.py --help
 
 **v0.1** — Initial Release 🎉
 
-## 🛠️ Use Responsibly
+## 📄 License
 
-This tool is for personal use only.
-Please respect Google Play’s terms of service — and enjoy your beta access! 😎
+This tool is provided as open-source infrastructure under the **MIT License**.Use of this automation script is subject to the *Google Play Terms of Service*. This software is for personal educational use only; use responsibly.
