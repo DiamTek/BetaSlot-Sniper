@@ -1,10 +1,10 @@
-# 🚀 **BetaSlot-Sniper**
+# 🚀 **BetaSlot Sniper**
 
 Automatically join **Google Play beta programs** the moment a slot opens — no more endless manual refreshing!
 
 ## 🧠 Overview
 
-**BetaSlot-Sniper** monitors selected apps on the Google Play Store and automatically joins their beta programs when spots become available.
+**BetaSlot Sniper** monitors selected apps on the Google Play Store and automatically joins their beta programs when spots become available.
 
 It uses your **real browser profile** (so you stay logged in) and handles driver downloads automatically.
 
