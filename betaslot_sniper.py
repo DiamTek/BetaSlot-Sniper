@@ -1,4 +1,4 @@
-# BetaSlot-Sniper.py
+# BetaSlot Sniper.py
 # Automated Google Play Beta Program Slot Hunter
 # Multi-browser, multi-platform support with package selection
 
@@ -1787,7 +1787,7 @@ def main():
                 print(f"{Colors.GREEN}All {len(PACKAGES)} packages have been successfully processed!")
                 print(f"• Joined beta programs or already enrolled")
                 print(f"• Monitoring completed successfully")
-                print(f"Thank you for using BetaSlot-Sniper!{Colors.RESET}")
+                print(f"Thank you for using BetaSlot Sniper!{Colors.RESET}")
                 break
                 
     except KeyboardInterrupt:
@@ -1806,7 +1806,7 @@ def main():
             pass
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="BetaSlot-Sniper")
+    parser = argparse.ArgumentParser(description="BetaSlot Sniper")
     parser.add_argument("--exit-on-join", action="store_true",
                         help="Exit immediately when script successfully joins a beta")
     parser.add_argument("--exit-on-already", action="store_true",
