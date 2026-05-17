@@ -93,8 +93,6 @@ python BetaSlot-Sniper.py --help
 
 **v0.1** — Initial Release 🎉
 
----
-
 ## 🛠️ Use Responsibly
 
 This tool is for personal use only.
